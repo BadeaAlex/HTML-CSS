@@ -1,0 +1,20 @@
+.odd {
+    background-color:aquamarine;
+    color: brown;
+    font-size: 55px;
+    width: 1000px;
+} #four {
+    color: #000fff;
+    font-size: 40px;
+} .adjust-font-size {
+    background-color: rgb(red, green, blue);
+    color: burlywood;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} button {
+    margin: 20px 0 0 20px;
+    width: 200px;
+    background-color: gold;
+    font-weight: bold;
+    padding: 20px;
+}

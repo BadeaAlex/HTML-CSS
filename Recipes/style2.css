@@ -1,0 +1,18 @@
+div {
+    color: blueviolet;
+    background-color: bisque;
+}
+head {
+    background-color: aquamarine;
+}
+img {
+    height: 250px;
+    width: auto;
+    border: saddlebrown 5px;
+    border-radius: 70px;
+}
+p {
+    color: red;
+    font-family: cursive;
+    font-size: larger;
+}

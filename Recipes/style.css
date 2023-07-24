@@ -1,0 +1,18 @@
+h3 {
+    background-color: red;
+    font-size: 32px;
+    align-content: center;
+    border: 5px;
+    margin-block: 10px;
+    text-align: center;
+}
+button {
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+a {
+    color: rebeccapurple;
+    border-radius: 1%;
+    background-color: beige;
+}
